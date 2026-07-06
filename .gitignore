@@ -1,0 +1,24 @@
+.env# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Generated PDFs
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
